@@ -1,5 +1,5 @@
 # Content-Moderation-Tagging
-This repo does content moderation and content tagging. If any questions, please reach out to Data Science team (Sze Chi, Thulasiram, Chandan).
+This repo does content moderation and content tagging.
 
 # Feature list
 This list will be continually updated
@@ -41,7 +41,7 @@ ComposedMaxCon=100
 
 SnowflakeResultsQueue=content_moderation_tagging-results_dev
 RawResultsQueue=content_moderation_tagging-raw-results_dev
-AiModelBucket=lomotif-datalake-dev
+AiModelBucket=datalake-dev
 ```
 
 # Additional variables for internal testing
@@ -179,36 +179,3 @@ To be updated.
     - `src/utils/data_process_clip.py`: data reading and processing utils
     - `src/utils/write_tables_clip.py`: authenticate into Snowflake and functions for writing tables to store model outputs
     - `src/content_tag_predictor.py`: main predictor script -->
-
-# More details about the output
-<!-- The output will be written to this table on Snowflake: `DS_CONTENT_MODERATION_TAGGING_1ST_LAYER` (In production). -->
-Example output upon sending a request to the deployment service:
-```python
-{'LOMOTIF_ID': '64ac40f7-b4c6-4246-84cb-d1d0875eb084', 'VIDEO': 'https://lomotif-staging.s3.amazonaws.com/lomotifs/2022/1/10/64ac40f7b4c6424684cbd1d0875eb084/64ac40f7b4c6424684cbd1d0875eb084-20220110-0623-video-vs.mp4', 'COUNTRY': 'IN', 'CREATION_TIME': '2022-01-10T06:23:42.712750', 'MESSAGE_RECEIVE_TIME': '2022-03-17 07:40:59.535872+00:00', 'KEY_FRAMES': '1', 'NUM_FRAMES': '750', 'FPS': '25.033377837116156', 'NN_PROCESS_START_TIME': '2022-03-17 07:41:02.531222+00:00', 'NN_PREDICTION_TIME': '2022-03-17 07:41:02.609053+00:00', 'NN_SAFE_SCORES': '0.99393', 'NN_UNSAFE_SCORES': '0.00607', 'NN_TO_BE_MODERATED': False, 'NN_PREDICTION_SUCCESS': True, 'NN_STATUS': 0, 'CLIP_PROCESS_START_TIME': '2022-03-17 07:41:02.757048+00:00', 'CLIP_PREDICTION_TIME': '2022-03-17 07:41:02.836512+00:00', 'CLIP_PREDICTION_SUCCESS': True, 'CLIP_TO_BE_MODERATED': False, 'CLIP_STATUS': 0, 'COOP_PROCESS_START_TIME': '2022-03-17 07:41:02.615863+00:00', 'COOP_PREDICTION_TIME': '2022-03-17 07:41:02.757001+00:00', 'COOP_PREDICTION_SUCCESS': True, 'COOP_STATUS': 0, 'PREDICTED_PRIMARY_CATEGORY': 'inspirational', 'PREDICTED_SECONDARY_CATEGORY': 'spiritual-motivation', 'PREDICTED_TOP3_PRIMARY_CATEGORY': 'inspirational', 'PREDICTED_TOP3_SECONDARY_CATEGORY': 'spiritual-motivation, quotes', 'MFD_PROCESS_START_TIME': '2022-03-17 07:41:02.514103+00:00', 'MFD_PREDICTION_TIME': '2022-03-17 07:41:02.525057+00:00', 'MFD_TO_BE_MODERATED': False, 'MFD_PREDICTION_SUCCESS': True, 'MFD_STATUS': 0, 'TO_BE_MODERATED': False}
-```
-- LOMOTIF_ID: As per MAIN_DB definition.
-- VIDEO: S3 video link to the lomotif
-- COUNTRY: As per MAIN_DB definition.
-- CREATION_TIME: As per MAIN_DB definition.
-- MESSAGE_RECEIVE_TIME: UTC time where kinesis message is received by the deployment service.
-- KEY_FRAMES: 0-index key frames of the lomotif that has been predicted on.
-- NUM_FRAMES: Number of frames of the lomotif.
-- FPS: Number of frames per second.
-- (NN/CLIP/COOP/MFD)_PROCESS_START_TIME: UTC time when model inference begins.
-- (NN/CLIP/COOP/MFD)_PREDICTION_TIME: UTC time when prediction has completed.
-- NN_SAFE_SCORES: Nudenet safe scores per key frame.
-- NN_UNSAFE_SCORES: Nudenet unsafe scores per key frame.
-- (NN/CLIP/COOP/MFD)_TO_BE_MODERARED: True if needs to be moderated. Otherwise False.
-- PREDICTED_PRIMARY_CATEGORY: primary category prediction.
-- PREDICTED_SECONDARY_CATEGORY: secondary category prediction.
-- (NN/CLIP/COOP/MFD)_PREDICTION_SUCCESS: True if STATUS is 0. Otherwise False.
-- (NN/CLIP/COOP/MFD)_STATUS: 
-    - 0: Prediction successful. 
-    - 1: Not a video or image, prediction unsuccesful. 
-    - 403: Video clip file not found, prediction unsuccessful. Or Lomotif does not exist on S3, cannot be downloaded after retries, prediction unsuccessful.
-    - 4: Some unknown error in the model that was caught by the try...except... loop. Prediction unsucessful.
-    - 5: No key frames selected. Prediction unsucessful.
-
-
-
-
