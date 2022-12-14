@@ -98,7 +98,7 @@ ComposedMaxCon=100
 
 SnowflakeResultsQueue=content_moderation_tagging-results_dev
 RawResultsQueue=content_moderation_tagging-raw-results_dev
-AiModelBucket=lomotif-datalake-dev
+AiModelBucket=datalake-dev
 ```
 
 # Instructions (Docker)
