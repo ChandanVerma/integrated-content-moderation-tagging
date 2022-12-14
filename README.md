@@ -3,8 +3,8 @@ This repo does content moderation and content tagging.
 
 # Feature list
 This list will be continually updated
-1) Moderating lomotifs using CLIP and Nudenet models to identify violence and sexual content
-2) Content tagging lomotifs using CLIP and Nudenet models to identify their primary and secondary categories.
+1) Moderating videos using CLIP and Nudenet models to identify violence and sexual content
+2) Content tagging videos using CLIP and Nudenet models to identify their primary and secondary categories.
 3) Wrapped the code base with ML deployment framework, Rayserve.
 
 
