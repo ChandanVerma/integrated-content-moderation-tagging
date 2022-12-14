@@ -1,0 +1,1279 @@
+CREATED,UPDATED,ID,CAPTION,VIDEO,IMAGE,DATA,VIEWS,SCORE,USER_ID,LIKES,ASPECT_RATIO,PRIVACY,CITY,COUNTRY,LOCATION,COMMENTS,VOTES,PREVIEW,BANNED,CATEGORY_ID,SOFT_BAN,IS_SENSITIVE_CONTENT,VIDEO_DURATION,LOGIN_REQUIRED,ACCEPT_LANGUAGE,OTHER_CATEGORY,LEVEL,MODERATION,PRIMARY_CATEGORIES,SECONDARY_CATEGORIES
+2022-02-20T00:08:47.890234Z,2022-02-20T00:08:56.984247Z,1a72c77e-f9e5-4982-8e69-d7e8b622d59f,The joy of a mother can never be quantified💯,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/1a72c77ef9e549828e69d7e8b622d59f/1a72c77ef9e549828e69d7e8b622d59f-20220220-0008-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/1a72c77ef9e549828e69d7e8b622d59f/1a72c77ef9e549828e69d7e8b622d59f-20220220-0008-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""audio"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""9857"",
+      ""title"": ""Hallelujah no go finish""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32197700,1,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/1a72c77ef9e549828e69d7e8b622d59f/1a72c77ef9e549828e69d7e8b622d59f-20220220-0008-image.gif,,,,,30000,,en-GB,,2,ACCEPT,selfies,selfie
+2022-02-20T00:09:21.046174Z,2022-02-20T00:09:24.535181Z,caee8dd7-9154-4da7-aaaa-f8bd60c14bab,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/caee8dd791544da7aaaaf8bd60c14bab/caee8dd791544da7aaaaf8bd60c14bab-20220220-0009-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/caee8dd791544da7aaaaf8bd60c14bab/caee8dd791544da7aaaaf8bd60c14bab-20220220-0009-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Drake"",
+      ""id"": ""ddc7a0e7043c7184dd7d4b2a75eed92aea23412f4a62a846e8862c42ff20a38a"",
+      ""title"": ""Ratchet Happy Birthday""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32340657,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/caee8dd791544da7aaaaf8bd60c14bab/caee8dd791544da7aaaaf8bd60c14bab-20220220-0009-image.gif,,,,,30000,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T00:10:16.672266Z,2022-02-23T08:40:29.15575Z,eed780a6-b323-4931-a03a-2fd75301798b,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/eed780a6b3234931a03a2fd75301798b/eed780a6b3234931a03a2fd75301798b-20220220-0010-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/eed780a6b3234931a03a2fd75301798b/eed780a6b3234931a03a2fd75301798b-20220220-0010-image.jpeg,"{
+  ""audio"": null,
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,27682174,3,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/eed780a6b3234931a03a2fd75301798b/eed780a6b3234931a03a2fd75301798b-20220220-0010-image.webp,,,,,8966,,en-US,,2,ACCEPT,life-style,fashion
+2022-02-20T00:11:37.342282Z,2022-02-20T04:07:31.532722Z,88cd39c3-8a0c-4a27-ab84-80b1acaebf6f,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/88cd39c38a0c4a27ab8480b1acaebf6f/88cd39c38a0c4a27ab8480b1acaebf6f-20220220-0010-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/88cd39c38a0c4a27ab8480b1acaebf6f/88cd39c38a0c4a27ab8480b1acaebf6f-20220220-0010-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""IG: @ Cee_Naija"",
+      ""artist"": ""Avicii"",
+      ""id"": ""45931"",
+      ""title"": ""The Nights || CeeNaija.com""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 540,
+    ""width"": 540
+  }
+}",0,0,26369783,0,SQ,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/88cd39c38a0c4a27ab8480b1acaebf6f/88cd39c38a0c4a27ab8480b1acaebf6f-20220220-0010-image.gif,TRUE,,,,30000,,en-US,,2,REJECT,violence,"dead-bodies-&-corpes, tiktok"
+2022-02-20T00:19:54.161399Z,2022-02-20T00:22:06.812398Z,4e8f603b-5656-43e2-ac66-c46146f61d1b,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/4e8f603b565643e2ac66c46146f61d1b/4e8f603b565643e2ac66c46146f61d1b-20220220-0019-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/4e8f603b565643e2ac66c46146f61d1b/4e8f603b565643e2ac66c46146f61d1b-20220220-0019-image.png,"{
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352192,1,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/4e8f603b565643e2ac66c46146f61d1b/4e8f603b565643e2ac66c46146f61d1b-20220220-0019-image.gif,,,TRUE,,29833,,en-US,,2,ACCEPT,selfies,"selfie, tiktok"
+2022-02-20T02:50:14.869592Z,2022-02-20T02:51:54.266614Z,5e108aa9-ce81-4554-91f6-69d4c33e68b0,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/5e108aa9ce81455491f669d4c33e68b0/5e108aa9ce81455491f669d4c33e68b0-20220220-0249-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/5e108aa9ce81455491f669d4c33e68b0/5e108aa9ce81455491f669d4c33e68b0-20220220-0249-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""@GospelHotspot"",
+      ""artist"": ""Tope Alabi "",
+      ""id"": ""7868"",
+      ""title"": ""Nigbati Mo Ro O""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,27893894,0,PT,3,,NG,,0,0,,,,TRUE,,29995,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T02:51:35.053904Z,2022-02-20T04:20:51.438802Z,37b08394-50e6-4d1b-ad8d-99a7bf1fd46d,The love of my life!,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/37b0839450e64d1bad8d99a7bf1fd46d/37b0839450e64d1bad8d99a7bf1fd46d-20220220-0251-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/37b0839450e64d1bad8d99a7bf1fd46d/37b0839450e64d1bad8d99a7bf1fd46d-20220220-0251-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/f5/0a/4f/f50a4f7e-11d7-244e-5091-553ae95a5298/00602557124941.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Rihanna"",
+      ""id"": ""163fce7190b26b61e1e18dac958caefde6960288914e20247a1d3fd78c9c2ecb"",
+      ""title"": ""Loveeeeeee Song (feat. Future)""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,24031323,0,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/37b0839450e64d1bad8d99a7bf1fd46d/37b0839450e64d1bad8d99a7bf1fd46d-20220220-0251-image.webp,TRUE,,,,29966,,en-US,,2,REJECT,nudity-&-sexual,sexual-activity
+2022-02-20T02:53:05.424917Z,2022-02-20T02:54:44.78686Z,20760b84-0db4-44a3-a5e6-5903eed710b5,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/20760b840db444a3a5e65903eed710b5/20760b840db444a3a5e65903eed710b5-20220220-0252-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/20760b840db444a3a5e65903eed710b5/20760b840db444a3a5e65903eed710b5-20220220-0252-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""9jaflaver.com"",
+      ""artist"": ""Skiibii"",
+      ""id"": ""2817"",
+      ""title"": ""Skiibii - Baddest Boy Via: 9jaflaver.com""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352707,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/20760b840db444a3a5e65903eed710b5/20760b840db444a3a5e65903eed710b5-20220220-0252-image.gif,,,TRUE,,30000,,en-NG,,2,ACCEPT,selfies,selfie
+2022-02-20T02:55:39.588882Z,2022-02-20T02:55:42.969737Z,d957e618-c8b1-4e29-9023-376458df6a77,Bound to you 👩‍❤️‍💋‍👨,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/d957e618c8b14e299023376458df6a77/d957e618c8b14e299023376458df6a77-20220220-0255-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/d957e618c8b14e299023376458df6a77/d957e618c8b14e299023376458df6a77-20220220-0255-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Changes"",
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/21/4e/d2214ea9-97ff-46ef-ac45-7fca6fb73839/20UMGIM03126.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Justin Bieber"",
+      ""id"": ""f1815c6f0a6b74ae04d77bfcb69d49ac247c1887185db69d45f5da0609d852d6"",
+      ""title"": ""Intentions (feat. Quavo)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352813,0,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/d957e618c8b14e299023376458df6a77/d957e618c8b14e299023376458df6a77-20220220-0255-image.gif,,,,,30000,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T03:03:47.529124Z,2022-02-20T04:27:32.346067Z,be59e964-2759-40bc-a56a-eec3dd8e76b2,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/be59e964275940bca56aeec3dd8e76b2/be59e964275940bca56aeec3dd8e76b2-20220220-0303-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/be59e964275940bca56aeec3dd8e76b2/be59e964275940bca56aeec3dd8e76b2-20220220-0303-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album"": ""Meet the Woo 2"",
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/13/14/af/1314afe4-1ede-cc43-81d0-8e296a82e043/20UMGIM07215.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Pop Smoke"",
+      ""id"": ""c1ae55c2253054b5a251d7c6a1a5fb7f1f789c6fc9264255a9e9fbcf3b3e9111"",
+      ""title"": ""Christopher Walking""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,19125279,0,PT,1,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/be59e964275940bca56aeec3dd8e76b2/be59e964275940bca56aeec3dd8e76b2-20220220-0303-image.webp,TRUE,,,,30000,,en-US,,2,REJECT,nudity-&-sexual,sexually-suggestive
+2022-02-20T00:25:37.972476Z,2022-02-20T00:25:41.482288Z,8d32e50f-491f-49e2-a29a-89b9f315576c,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8d32e50f491f49e2a29a89b9f315576c/8d32e50f491f49e2a29a89b9f315576c-20220220-0024-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8d32e50f491f49e2a29a89b9f315576c/8d32e50f491f49e2a29a89b9f315576c-20220220-0024-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is2-ssl.mzstatic.com/image/thumb/Music6/v4/e1/85/18/e1851873-236f-1d35-a5de-dac013fe49bc/05099963255157.jpg/170x170bb.jpg"",
+      ""artist"": ""Ariel"",
+      ""id"": ""c558d36ffa36281e00452a95d9c25ea3ddd7f8ebe7831b82076b472cccb56b63"",
+      ""title"": ""Happy Birthday, Princess!""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,28768140,0,PT,3,,NG,,0,0,,,,,,29989,,en-US,,2,ACCEPT,family-and-friends,kids
+2022-02-20T00:26:35.451679Z,2022-02-20T00:26:38.813119Z,8e384464-68e1-48f7-b849-ca151d1ff2a3,I'm love moving with pretty girls,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8e38446468e148f7b849ca151d1ff2a3/8e38446468e148f7b849ca151d1ff2a3-20220220-0026-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8e38446468e148f7b849ca151d1ff2a3/8e38446468e148f7b849ca151d1ff2a3-20220220-0026-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://cdn.lomotif.com/music/custom-music/2022-01/SKiibii%26Davido-BaddestBoy%28Remix%29/SKiibii%26Davido-BaddestBoy%28Remix%29-AlbumArt.jpg"",
+      ""artist"": ""SKiibii & Davido"",
+      ""id"": ""17878ff3486dd01846e0562e3444cf0669604a4822c64b1f66b6a5d6edd89be6"",
+      ""title"": ""Baddest Boy (Remix)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352220,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8e38446468e148f7b849ca151d1ff2a3/8e38446468e148f7b849ca151d1ff2a3-20220220-0026-image.gif,,,,,26429,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T00:09:32.036214Z,2022-03-07T19:07:23.60287Z,8e7e7be4-bcb5-4318-8754-5b741426e2d4,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8e7e7be4bcb5431887545b741426e2d4/8e7e7be4bcb5431887545b741426e2d4-20220220-0008-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8e7e7be4bcb5431887545b741426e2d4/8e7e7be4bcb5431887545b741426e2d4-20220220-0008-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/82/2b/08/822b08a3-25cc-640c-f527-df0a5d134554/018736627989_cover.jpg/170x170bb.jpg"",
+      ""artist"": ""Dj Pikeno Mpc"",
+      ""id"": ""fe63a2de211c3dd67cf40f6e07ac3abb42718922bc5b82951fe2bd23bf0044e8"",
+      ""title"": ""Montagem Olodum De Bandido - Dj Pikeno Mpc""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32351992,11,PT,3,,BR,,1,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8e7e7be4bcb5431887545b741426e2d4/8e7e7be4bcb5431887545b741426e2d4-20220220-0008-image.gif,,,,,7059,,pt-BR,,2,ACCEPT,dance,"dancing, tiktok"
+2022-02-20T00:30:26.73513Z,2022-02-20T00:30:30.182526Z,ad0083f6-b8ac-4ef9-8b3e-396872e36634,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ad0083f6b8ac4ef98b3e396872e36634/ad0083f6b8ac4ef98b3e396872e36634-20220220-0030-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ad0083f6b8ac4ef98b3e396872e36634/ad0083f6b8ac4ef98b3e396872e36634-20220220-0030-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is3-ssl.mzstatic.com/image/thumb/Music/v4/f8/85/05/f88505c2-be49-f122-706b-6e7aa8ed6529/4012897912737_cover.jpg/169x170bb.jpg"",
+      ""artist"": ""Rebensburg Singers"",
+      ""id"": ""c829113985e14538ba7954c8daad2a0ab266dbdfc81f0ce2e8b87ab3122d9c77"",
+      ""title"": ""Happy Birthday to you""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32346299,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ad0083f6b8ac4ef98b3e396872e36634/ad0083f6b8ac4ef98b3e396872e36634-20220220-0030-image.gif,,,,,30000,,en-US,,2,ACCEPT,celebration-and-wishes,birthday
+2022-02-20T00:31:40.231494Z,2022-02-20T00:33:18.819186Z,30e6fd74-a0db-4f89-a6e4-c3a1b5d71be0,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/30e6fd74a0db4f89a6e4c3a1b5d71be0/30e6fd74a0db4f89a6e4c3a1b5d71be0-20220220-0031-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/30e6fd74a0db4f89a6e4c3a1b5d71be0/30e6fd74a0db4f89a6e4c3a1b5d71be0-20220220-0031-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Ringtones"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""4014"",
+      ""title"": ""Dancing in the sky""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,3506389,0,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/30e6fd74a0db4f89a6e4c3a1b5d71be0/30e6fd74a0db4f89a6e4c3a1b5d71be0-20220220-0031-image.gif,,,TRUE,,29791,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T00:16:32.251066Z,2022-02-20T00:16:35.595565Z,dcee06b6-27e1-4eb8-a8b9-ec300694a58a,"Parabéns minha princesa!!! Filja maravilhosa, doce, carinhosa que todos amam. Como seus pacientes dizem “você é um anjo”. Obrigada Deus por ter nos presenteado com tamanha doçura!",https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/dcee06b627e14eb8a8b9ec300694a58a/dcee06b627e14eb8a8b9ec300694a58a-20220220-0016-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/dcee06b627e14eb8a8b9ec300694a58a/dcee06b627e14eb8a8b9ec300694a58a-20220220-0016-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album"": ""The Lion King Collection (Deluxe Edition)"",
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/c0/4f/97/c04f9755-84a8-e183-6278-ae9bfd1f1e65/05099967874958.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Elton John"",
+      ""id"": ""d8220549d92d4e7df102edac78b38af6fe373f4b3369645e194cb12fd579d073"",
+      ""title"": ""Can You Feel the Love Tonight""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,27614109,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/dcee06b627e14eb8a8b9ec300694a58a/dcee06b627e14eb8a8b9ec300694a58a-20220220-0016-image.webp,,,,,30000,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T03:09:16.958303Z,2022-02-20T03:09:20.287775Z,e417832d-73c7-462c-a249-658d957e303e,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e417832d73c7462ca249658d957e303e/e417832d73c7462ca249658d957e303e-20220220-0309-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e417832d73c7462ca249658d957e303e/e417832d73c7462ca249658d957e303e-20220220-0309-image.jpeg,"{
+  ""audio"": null,
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,6319543,0,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e417832d73c7462ca249658d957e303e/e417832d73c7462ca249658d957e303e-20220220-0309-image.webp,,,,,19233,,en-US,,2,ACCEPT,others,others
+2022-02-20T03:13:22.849905Z,2022-03-07T00:04:53.304158Z,3cd89e54-49a3-43e8-8614-67aa8eb8f49f,#bigg #BBIG,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/3cd89e5449a343e8861467aa8eb8f49f/3cd89e5449a343e8861467aa8eb8f49f-20220220-0313-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/3cd89e5449a343e8861467aa8eb8f49f/3cd89e5449a343e8861467aa8eb8f49f-20220220-0313-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Rock Im Park"",
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/33/d7/86/33d7868c-bb47-bef0-9165-164057f21b3d/cover.jpg/170x170bb.jpg"",
+      ""artist"": ""Limp Bizkit"",
+      ""id"": ""862c95fe80bc795cc509deae7a72c0f7d942c8a8a355ec661a207575b72cdce0"",
+      ""title"": ""Rollin'""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 540,
+    ""width"": 960
+  }
+}",0,0,32278491,23,LS,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/3cd89e5449a343e8861467aa8eb8f49f/3cd89e5449a343e8861467aa8eb8f49f-20220220-0313-image.gif,,,,,23668,,en-US,,2,ACCEPT,entertainment,"movie, other-third-party-apps"
+2022-02-20T00:23:42.053856Z,2022-02-20T00:23:45.470529Z,fd9c7198-87ff-4157-8bbb-d9d3bc68114b,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/fd9c719887ff41578bbbd9d3bc68114b/fd9c719887ff41578bbbd9d3bc68114b-20220220-0022-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/fd9c719887ff41578bbbd9d3bc68114b/fd9c719887ff41578bbbd9d3bc68114b-20220220-0022-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album"": ""This Is Acting"",
+      ""album_art_url"": ""https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/bc/13/27/bc13275c-8b26-802d-771b-d15ae00fb530/mzm.hvpwjsvi.jpg/60x60bb.png"",
+      ""artist"": ""Sia"",
+      ""id"": ""089234eea3a0cf23b31be606bd9059d5651f1576d00991d03f391ffe90678b75"",
+      ""title"": ""Unstoppable""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,17413383,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/fd9c719887ff41578bbbd9d3bc68114b/fd9c719887ff41578bbbd9d3bc68114b-20220220-0022-image.webp,,,,,10433,,pt-BR,,2,ACCEPT,music,music-performance
+2022-02-20T03:17:31.105899Z,2022-02-20T03:17:34.403618Z,0d701f70-b7e4-4667-adb7-6cd1b47f83bf,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/0d701f70b7e44667adb76cd1b47f83bf/0d701f70b7e44667adb76cd1b47f83bf-20220220-0317-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/0d701f70b7e44667adb76cd1b47f83bf/0d701f70b7e44667adb76cd1b47f83bf-20220220-0317-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/b4/0a/1b/b40a1ba7-a6b3-a1f4-17f2-3b6128f93ad1/cover.jpg/170x170bb.jpg"",
+      ""artist"": ""МОТ & JONY"",
+      ""id"": ""f6c0e1b5f23e72485a7411289ddbf0816cdef0633a553536f11c06f0b58ce008"",
+      ""title"": ""Лилии""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,21714344,0,PT,3,,RU,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/0d701f70b7e44667adb76cd1b47f83bf/0d701f70b7e44667adb76cd1b47f83bf-20220220-0317-image.webp,,,,,15000,,ru-RU,,2,ACCEPT,beauty-and-grooming,hair
+2022-02-20T03:17:42.529338Z,2022-02-20T03:17:45.876964Z,57dd607a-c29c-4e8a-a928-1a07a873647f,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/57dd607ac29c4e8aa9281a07a873647f/57dd607ac29c4e8aa9281a07a873647f-20220220-0317-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/57dd607ac29c4e8aa9281a07a873647f/57dd607ac29c4e8aa9281a07a873647f-20220220-0317-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://cdn.lomotif.com/music/custom-music/2022-01/SKiibii%26Davido-BaddestBoy%28Remix%29/SKiibii%26Davido-BaddestBoy%28Remix%29-AlbumArt.jpg"",
+      ""artist"": ""SKiibii & Davido"",
+      ""id"": ""17878ff3486dd01846e0562e3444cf0669604a4822c64b1f66b6a5d6edd89be6"",
+      ""title"": ""Baddest Boy (Remix)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,32208384,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/57dd607ac29c4e8aa9281a07a873647f/57dd607ac29c4e8aa9281a07a873647f-20220220-0317-image.webp,,,,,29966,,en-NG,,2,ACCEPT,selfies,selfie
+2022-02-20T03:27:25.012284Z,2022-02-20T03:27:28.379052Z,a928158a-cd6f-44d3-9e4b-bad9da4f60ff,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a928158acd6f44d39e4bbad9da4f60ff/a928158acd6f44d39e4bbad9da4f60ff-20220220-0327-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a928158acd6f44d39e4bbad9da4f60ff/a928158acd6f44d39e4bbad9da4f60ff-20220220-0327-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album"": ""It's Your Birthday (feat. Lil Jon & Jessie Malakouti) - EP"",
+      ""album_art_url"": ""https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/b3/3d/19/b33d19c0-dd52-5e6e-8be8-4efad8b80bb7/1671.jpg/170x170bb.jpg"",
+      ""artist"": ""DJ Felli Fel"",
+      ""id"": ""6cf969b35a2909687fbd63332ccbb8966d89baed6c5931a7ad6a4e624205a203"",
+      ""title"": ""It's Your Birthday B!#ch (feat. Lil Jon & Jessie Malakouti)""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,32191192,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a928158acd6f44d39e4bbad9da4f60ff/a928158acd6f44d39e4bbad9da4f60ff-20220220-0327-image.webp,,,,,30033,,en-NG,,2,ACCEPT,celebration-and-wishes,birthday
+2022-02-20T03:42:21.812805Z,2022-02-20T03:42:25.228132Z,194890cc-281d-45d8-988a-fea8ceeed6ee,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/194890cc281d45d8988afea8ceeed6ee/194890cc281d45d8988afea8ceeed6ee-20220220-0341-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/194890cc281d45d8988afea8ceeed6ee/194890cc281d45d8988afea8ceeed6ee-20220220-0341-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Birthday (Acoustic) - Single"",
+      ""album_art_url"": ""https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/b1/11/fa/b111fa9e-a3a6-d2f6-08b6-6bec9ecccdd7/190295261054.jpg/170x170bb.jpg"",
+      ""artist"": ""Anne-Marie"",
+      ""id"": ""beb9cb92ebb4baf012a925c3d83f765fc6d126fe6ce8b6946208ccc66e575d21"",
+      ""title"": ""Birthday (Acoustic)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,30195881,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/194890cc281d45d8988afea8ceeed6ee/194890cc281d45d8988afea8ceeed6ee-20220220-0341-image.gif,,,,,29992,,en-US,,2,ACCEPT,celebration-and-wishes,birthday
+2022-02-20T00:25:38.344865Z,2022-02-20T00:27:14.973476Z,09be6965-ab6f-403e-a6d2-9f63859e3b2e,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/09be6965ab6f403ea6d29f63859e3b2e/09be6965ab6f403ea6d29f63859e3b2e-20220220-0025-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/09be6965ab6f403ea6d29f63859e3b2e/09be6965ab6f403ea6d29f63859e3b2e-20220220-0025-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""ABELHA URSO PROFESSOR MACACO RUSSO TIKTOK - DJ LZ É DUDUZINHO ] 2022"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""938"",
+      ""title"": ""ABELHA URSO PROFESSOR MACACO RUSSO TIKTOK - DJ LZ É DUDUZINHO ] 2022""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,27877124,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/09be6965ab6f403ea6d29f63859e3b2e/09be6965ab6f403ea6d29f63859e3b2e-20220220-0025-image.gif,,,TRUE,,9125,,pt-BR,,2,ACCEPT,music,music-performance
+2022-02-20T03:52:54.577159Z,2022-02-20T03:52:58.147396Z,a7a69fe6-a858-45bb-9e5c-692cad836c82,heyyy.. I'm not new to this. I had to make a new acc. My old one is bitch5449.. #hey,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a7a69fe6a85845bb9e5c692cad836c82/a7a69fe6a85845bb9e5c692cad836c82-20220220-0352-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a7a69fe6a85845bb9e5c692cad836c82/a7a69fe6a85845bb9e5c692cad836c82-20220220-0352-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""MusicDownloadFree"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""101485"",
+      ""title"": ""Slayyyter   Troubled Paradise (Le Matos Remix) Studio Session [Available in 4K]-Le Matos-df2842049f6caad9c2c2eb77ee6073be""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 540,
+    ""width"": 960
+  }
+}",0,0,32352999,0,LS,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a7a69fe6a85845bb9e5c692cad836c82/a7a69fe6a85845bb9e5c692cad836c82-20220220-0352-image.gif,,,,,19030,,en-US,,2,ACCEPT,music,music-performance
+2022-02-20T00:29:47.585537Z,2022-02-20T00:29:51.380707Z,e214959b-3b33-4be0-ac94-515124ca199c,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e214959b3b334be0ac94515124ca199c/e214959b3b334be0ac94515124ca199c-20220220-0028-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e214959b3b334be0ac94515124ca199c/e214959b3b334be0ac94515124ca199c-20220220-0028-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/30/f1/93/30f1931c-feae-e12c-f840-5b73835706b3/0.jpg/170x170bb.jpg"",
+      ""artist"": ""BIN, Mainstreet & Ajaxx"",
+      ""id"": ""e778e0454d5d208ec68dd61e297fe10dd0f97f33ea8b768772c3938c09d434e5"",
+      ""title"": ""Saturno""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352191,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e214959b3b334be0ac94515124ca199c/e214959b3b334be0ac94515124ca199c-20220220-0028-image.gif,,,,,30000,,pt-BR,,2,ACCEPT,others,others
+2022-02-20T04:05:20.57086Z,2022-02-20T04:05:24.219171Z,6a141770-694a-4b61-a277-11ebda31c6e0,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/6a141770694a4b61a27711ebda31c6e0/6a141770694a4b61a27711ebda31c6e0-20220220-0405-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/6a141770694a4b61a27711ebda31c6e0/6a141770694a4b61a27711ebda31c6e0-20220220-0405-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album"": ""Best of Crazy Hits"",
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/87/98/03/8798033a-caee-82f8-2c39-dd490697d464/4251513964020_3000.jpg/170x170bb.jpg"",
+      ""artist"": ""Crazy Frog"",
+      ""id"": ""23ab5dcfd29a0f5bfccdff6856b7c902a86a37ba0d2da0effb1882208d468655"",
+      ""title"": ""Popcorn""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1080,
+    ""width"": 1080
+  }
+}",0,0,32353031,0,SQ,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/6a141770694a4b61a27711ebda31c6e0/6a141770694a4b61a27711ebda31c6e0-20220220-0405-image.webp,,,,,14768,,es-US,,2,ACCEPT,family-and-friends,kids
+2022-02-20T04:05:48.670194Z,2022-02-20T04:05:52.282398Z,5c5bcf51-89e6-42b3-9b63-cfa765927df0,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/5c5bcf5189e642b39b63cfa765927df0/5c5bcf5189e642b39b63cfa765927df0-20220220-0405-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/5c5bcf5189e642b39b63cfa765927df0/5c5bcf5189e642b39b63cfa765927df0-20220220-0405-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/69/20/10/692010ef-8e2d-0137-b060-ff4fa420062a/21UMGIM44927.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Maroon 5"",
+      ""id"": ""60806d455cd2a88372941ca0381b47a926766d666d395c02b8a3f04fa45dea67"",
+      ""title"": ""Memories""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,31611219,0,PT,3,,NG,,0,0,,,,,,29993,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T00:29:59.777654Z,2022-02-21T19:15:42.904907Z,51ef1f13-8de6-4d47-86f9-6c1dcee81a94,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/51ef1f138de64d4786f96c1dcee81a94/51ef1f138de64d4786f96c1dcee81a94-20220220-0029-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/51ef1f138de64d4786f96c1dcee81a94/51ef1f138de64d4786f96c1dcee81a94-20220220-0029-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/d2/12/06d212c1-c28c-d7b1-38c5-077812c0eebb/20UMGIM64134.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Guga Nandes"",
+      ""id"": ""9e58f82ce067b99722737faf5fc579bd6e14945b3fc793d7d0aa85a7da880e10"",
+      ""title"": ""Presentinho""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352094,2,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/51ef1f138de64d4786f96c1dcee81a94/51ef1f138de64d4786f96c1dcee81a94-20220220-0029-image.gif,,,,,30000,,pt-BR,,2,ACCEPT,animals,pets
+2022-02-20T01:51:55.708713Z,2022-02-20T01:51:59.135469Z,17947933-5575-4744-a4f7-cc3050af10e8,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/1794793355754744a4f7cc3050af10e8/1794793355754744a4f7cc3050af10e8-20220220-0151-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/1794793355754744a4f7cc3050af10e8/1794793355754744a4f7cc3050af10e8-20220220-0151-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d8/9f/94/d89f94d4-44d9-ea9f-948d-f735e9816c91/00602557131567.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Rihanna"",
+      ""id"": ""b3da42a09646ad7106037d2ceb22fc1e5d9f61969b05f98ac2a8617bdbb76801"",
+      ""title"": ""You Da One""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,27290695,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/1794793355754744a4f7cc3050af10e8/1794793355754744a4f7cc3050af10e8-20220220-0151-image.gif,,,,,30000,,pt-BR,,2,ACCEPT,animals,pets
+2022-02-20T01:27:29.093762Z,2022-02-20T01:27:51.587864Z,b743c8da-8eeb-4d2e-873b-09054323f69f,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b743c8da8eeb4d2e873b09054323f69f/b743c8da8eeb4d2e873b09054323f69f-20220220-0127-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b743c8da8eeb4d2e873b09054323f69f/b743c8da8eeb4d2e873b09054323f69f-20220220-0127-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/53/3e/1e/533e1e7c-f85b-185c-ac3d-2ea31cc48ae7/15UMGIM42311.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Matheus & Kauan"",
+      ""id"": ""bc6e49f07a71a36efd9ebd164eb6b0684808cc559604807721b6b1cea38b6196"",
+      ""title"": ""Meu Oxigênio""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352481,1,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b743c8da8eeb4d2e873b09054323f69f/b743c8da8eeb4d2e873b09054323f69f-20220220-0127-image.gif,,,,,30000,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T01:38:03.01271Z,2022-02-21T03:54:47.512706Z,050583db-dfc1-463b-92a0-12eb53fec32b,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/050583dbdfc1463b92a012eb53fec32b/050583dbdfc1463b92a012eb53fec32b-20220220-0137-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/050583dbdfc1463b92a012eb53fec32b/050583dbdfc1463b92a012eb53fec32b-20220220-0137-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d0/8f/d1/d08fd16f-7d7e-2eae-c9d8-04d8067fd3f6/024543482604_cover.jpg/170x170bb.jpg"",
+      ""artist"": ""DJ THG & MC Nego Nojo"",
+      ""id"": ""c9465897847eb5247323d8b6481f7167b09092d21f23497e74bf7e6b24078f40"",
+      ""title"": ""Mtg - Ela Vai Joga (feat. MC Mr Bim)""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,32320808,1,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/050583dbdfc1463b92a012eb53fec32b/050583dbdfc1463b92a012eb53fec32b-20220220-0137-image.webp,,,,,15566,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T02:09:22.650204Z,2022-02-20T02:09:26.135462Z,7b8f0782-c1b1-4ee9-9846-66d844705d29,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/7b8f0782c1b14ee9984666d844705d29/7b8f0782c1b14ee9984666d844705d29-20220220-0209-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/7b8f0782c1b14ee9984666d844705d29/7b8f0782c1b14ee9984666d844705d29-20220220-0209-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/b0/de/48/b0de486a-e98d-2105-281d-9e270138ee51/00602547564696.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Avicii"",
+      ""id"": ""e83812d0bd07ec9c4531b5ca40ab3ed13418a1f9e3d7a4b6420f03e4051f4ade"",
+      ""title"": ""The Nights""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32347856,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/7b8f0782c1b14ee9984666d844705d29/7b8f0782c1b14ee9984666d844705d29-20220220-0209-image.gif,,,,,6000,,pt-BR,,2,ACCEPT,others,others
+2022-02-20T02:12:29.953259Z,2022-02-20T06:35:44.540664Z,7e1f8aa4-6030-4787-8895-c5fa85307dfd,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/7e1f8aa4603047878895c5fa85307dfd/7e1f8aa4603047878895c5fa85307dfd-20220220-0211-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/7e1f8aa4603047878895c5fa85307dfd/7e1f8aa4603047878895c5fa85307dfd-20220220-0211-image.png,"{
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32014766,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/7e1f8aa4603047878895c5fa85307dfd/7e1f8aa4603047878895c5fa85307dfd-20220220-0211-image.gif,TRUE,,,,25448,,pt-BR,,2,REJECT,harmful-acts,drugs-tobacco-alcohol
+2022-02-20T02:18:36.177806Z,2022-02-20T02:21:47.085499Z,99abce28-6e06-42c6-9263-59aa8fa4b146,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/99abce286e0642c6926359aa8fa4b146/99abce286e0642c6926359aa8fa4b146-20220220-0217-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/99abce286e0642c6926359aa8fa4b146/99abce286e0642c6926359aa8fa4b146-20220220-0217-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""MC YSA- EU TO CORRENDO DE LAÇO NÓS  É CORAÇÃO FECHADO [2F DA CDD] LANÇAMENTO 2K18"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""23578"",
+      ""title"": ""MC YSA- EU TO CORRENDO DE LAÇO NÓS  É CORAÇÃO FECHADO [2F DA CDD] LANÇAMENTO 2K18""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352562,1,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/99abce286e0642c6926359aa8fa4b146/99abce286e0642c6926359aa8fa4b146-20220220-0217-image.gif,,,TRUE,,30000,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T02:19:37.298543Z,2022-02-20T02:19:40.685406Z,ee403e9a-c2ec-47fa-b4b1-a2f5c12eea70,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ee403e9ac2ec47fab4b1a2f5c12eea70/ee403e9ac2ec47fab4b1a2f5c12eea70-20220220-0219-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ee403e9ac2ec47fab4b1a2f5c12eea70/ee403e9ac2ec47fab4b1a2f5c12eea70-20220220-0219-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/0d/be/18/0dbe1828-1214-8c37-a85f-64debe67faf3/15UMGIM47981.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""SoMo"",
+      ""id"": ""00e056ccb30d43401a87daea572b418f28468af7553742adfc37b3f79b96b640"",
+      ""title"": ""You Can Buy Everything""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,13575592,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ee403e9ac2ec47fab4b1a2f5c12eea70/ee403e9ac2ec47fab4b1a2f5c12eea70-20220220-0219-image.webp,,,,,20833,,es-419,,2,ACCEPT,selfies,selfie
+2022-02-20T02:27:13.191979Z,2022-02-20T02:28:39.740565Z,9aa94334-fcd6-47ce-9dba-00b53fe92090,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/9aa94334fcd647ce9dba00b53fe92090/9aa94334fcd647ce9dba00b53fe92090-20220220-0227-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/9aa94334fcd647ce9dba00b53fe92090/9aa94334fcd647ce9dba00b53fe92090-20220220-0227-image.png,"{
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352735,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/9aa94334fcd647ce9dba00b53fe92090/9aa94334fcd647ce9dba00b53fe92090-20220220-0227-image.gif,,,TRUE,,12607,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T02:29:47.102164Z,2022-02-20T02:31:27.634669Z,9c3942f3-c609-4b49-b3a0-5a121b00d88d,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/9c3942f3c6094b49b3a05a121b00d88d/9c3942f3c6094b49b3a05a121b00d88d-20220220-0229-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/9c3942f3c6094b49b3a05a121b00d88d/9c3942f3c6094b49b3a05a121b00d88d-20220220-0229-image.png,"{
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32352727,1,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/9c3942f3c6094b49b3a05a121b00d88d/9c3942f3c6094b49b3a05a121b00d88d-20220220-0229-image.gif,,,TRUE,,14849,,pt-BR,,2,ACCEPT,others,"others, other-third-party-apps"
+2022-02-20T02:31:16.330313Z,2022-02-20T02:31:19.692487Z,a67a388c-571c-43b7-a170-026f3543a003,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a67a388c571c43b7a170026f3543a003/a67a388c571c43b7a170026f3543a003-20220220-0231-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a67a388c571c43b7a170026f3543a003/a67a388c571c43b7a170026f3543a003-20220220-0231-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/1f/c0/18/1fc01885-7194-acd5-de8a-79086b27d039/18UMGIM01213.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Matheus & Kauan"",
+      ""id"": ""213cdacd5a34eb3c7b34d203ed98361c9c07d03e3608465b521e33c3e9b1ed04"",
+      ""title"": ""O Que Nunca Acabou""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,25244110,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a67a388c571c43b7a170026f3543a003/a67a388c571c43b7a170026f3543a003-20220220-0231-image.webp,,,,,30000,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T02:31:48.362572Z,2022-02-20T02:34:18.646831Z,d2b2e795-0c31-4bed-ac9e-e962bc36f8b2,"Gostei 🤗
+ #viraliza #fy",https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/d2b2e7950c314bedac9ee962bc36f8b2/d2b2e7950c314bedac9ee962bc36f8b2-20220220-0230-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/d2b2e7950c314bedac9ee962bc36f8b2/d2b2e7950c314bedac9ee962bc36f8b2-20220220-0230-image.png,"{
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,25517978,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/d2b2e7950c314bedac9ee962bc36f8b2/d2b2e7950c314bedac9ee962bc36f8b2-20220220-0230-image.gif,,,TRUE,,20032,,pt-BR,,2,ACCEPT,selfies,"selfie, tiktok"
+2022-02-20T02:33:21.086927Z,2022-02-20T02:33:24.642229Z,8e268d1f-5323-4dfd-9821-2a7afc362fce,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8e268d1f53234dfd98212a7afc362fce/8e268d1f53234dfd98212a7afc362fce-20220220-0230-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8e268d1f53234dfd98212a7afc362fce/8e268d1f53234dfd98212a7afc362fce-20220220-0230-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/06/d2/12/06d212c1-c28c-d7b1-38c5-077812c0eebb/20UMGIM64134.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Guga Nandes"",
+      ""id"": ""9e58f82ce067b99722737faf5fc579bd6e14945b3fc793d7d0aa85a7da880e10"",
+      ""title"": ""Presentinho""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32324520,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8e268d1f53234dfd98212a7afc362fce/8e268d1f53234dfd98212a7afc362fce-20220220-0230-image.gif,,,,,30000,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-22T08:11:34.11983Z,2022-02-22T08:11:37.519155Z,fa9a7df7-05e7-4af5-b4f9-ed937f20bd57,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/fa9a7df705e74af5b4f9ed937f20bd57/fa9a7df705e74af5b4f9ed937f20bd57-20220222-0810-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/fa9a7df705e74af5b4f9ed937f20bd57/fa9a7df705e74af5b4f9ed937f20bd57-20220222-0810-image.png,"{
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,25751801,0,PT,3,,RU,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/fa9a7df705e74af5b4f9ed937f20bd57/fa9a7df705e74af5b4f9ed937f20bd57-20220222-0810-image.gif,,,,,12000,,ru-RU,,2,ACCEPT,others,others
+2022-02-22T08:14:06.879565Z,2022-02-22T08:16:21.950735Z,5ee0e95f-73e7-4fa8-82ae-a1a704026850,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/5ee0e95f73e74fa882aea1a704026850/5ee0e95f73e74fa882aea1a704026850-20220222-0813-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/5ee0e95f73e74fa882aea1a704026850/5ee0e95f73e74fa882aea1a704026850-20220222-0813-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Call NL:- 08154866646"",
+      ""artist"": ""Niphkeys Ft. Zinoleesky"",
+      ""id"": ""2470"",
+      ""title"": ""Blessings | Naijaloaded.com.ng""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32293656,0,PT,3,,NG,,0,0,,,,TRUE,,,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-22T08:14:13.463358Z,2022-02-22T08:15:55.332218Z,50895774-7a70-4940-8d6f-5fde4d4a67aa,"My love 💕♥️
+You too much 💚💯",https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/508957747a7049408d6f5fde4d4a67aa/508957747a7049408d6f5fde4d4a67aa-20220222-0806-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/508957747a7049408d6f5fde4d4a67aa/508957747a7049408d6f5fde4d4a67aa-20220222-0806-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""IG:- @naijaloadedotng"",
+      ""artist"": ""Burna Boy Ft. Don Jazzy"",
+      ""id"": ""5641"",
+      ""title"": ""Question | Naijaloaded.com.ng""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,29868583,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/508957747a7049408d6f5fde4d4a67aa/508957747a7049408d6f5fde4d4a67aa-20220222-0806-image.gif,,,TRUE,,30000,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-22T08:21:19.56881Z,2022-02-22T08:21:23.373174Z,0d6d3ee6-4908-4c0d-84cf-1fb9e65c2c0f,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/0d6d3ee649084c0d84cf1fb9e65c2c0f/0d6d3ee649084c0d84cf1fb9e65c2c0f-20220222-0818-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/0d6d3ee649084c0d84cf1fb9e65c2c0f/0d6d3ee649084c0d84cf1fb9e65c2c0f-20220222-0818-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://cdn.lomotif.com/music/custom-music/2022-01/SKiibii%26Davido-BaddestBoy%28Remix%29/SKiibii%26Davido-BaddestBoy%28Remix%29-AlbumArt.jpg"",
+      ""artist"": ""SKiibii & Davido"",
+      ""id"": ""17878ff3486dd01846e0562e3444cf0669604a4822c64b1f66b6a5d6edd89be6"",
+      ""title"": ""Baddest Boy (Remix)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 0,
+    ""width"": 0
+  }
+}",0,0,29196881,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/0d6d3ee649084c0d84cf1fb9e65c2c0f/0d6d3ee649084c0d84cf1fb9e65c2c0f-20220222-0818-image.webp,,,,,29033,,en-NG,,2,ACCEPT,beauty-and-grooming,hair
+2022-02-22T08:27:53.57066Z,2022-02-22T08:30:19.319438Z,9af164b2-1f51-480e-a4a5-9dd6e667b497,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/9af164b21f51480ea4a59dd6e667b497/9af164b21f51480ea4a59dd6e667b497-20220222-0825-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/9af164b21f51480ea4a59dd6e667b497/9af164b21f51480ea4a59dd6e667b497-20220222-0825-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/06/68/b9/0668b927-9e50-ff12-9d4a-7d3d4a8fbe4a/886448985730.jpg/170x170bb.jpg"",
+      ""artist"": ""Ruger"",
+      ""id"": ""5503b95d0201fe4f11b5e72fe8ac66383a704d4faa5d46c44638f2bb0c183c2e"",
+      ""title"": ""Bounce""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,31228220,1,PT,3,,NG,,0,0,,,,,,,,en-US,,2,ACCEPT,selfies,"selfie, tiktok"
+2022-02-22T08:28:12.32247Z,2022-02-22T08:28:15.87884Z,4af1787c-c3b2-434c-9071-069ee69390aa,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/4af1787cc3b2434c9071069ee69390aa/4af1787cc3b2434c9071069ee69390aa-20220222-0827-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/4af1787cc3b2434c9071069ee69390aa/4af1787cc3b2434c9071069ee69390aa-20220222-0827-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/44/3e/93/443e93fe-42cc-57a7-f146-8ba7f481d82a/cda7d048-11ce-4208-9781-56ebefb6b104.jpg/170x170bb.jpg"",
+      ""artist"": ""Jaywillz"",
+      ""id"": ""5bf107ff84a141ece9a335fe0b5faae8fa0fa63a215fc2015dd0560dabd55545"",
+      ""title"": ""Medicine""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,31189689,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/4af1787cc3b2434c9071069ee69390aa/4af1787cc3b2434c9071069ee69390aa-20220222-0827-image.gif,,,,,15000,,en-US,,2,ACCEPT,entertainment,romantic
+2022-02-22T08:29:48.073899Z,2022-02-22T08:29:51.492104Z,a42a4ce9-0d3b-4731-a5e2-c2e40f25b72b,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/a42a4ce90d3b4731a5e2c2e40f25b72b/a42a4ce90d3b4731a5e2c2e40f25b72b-20220222-0829-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/a42a4ce90d3b4731a5e2c2e40f25b72b/a42a4ce90d3b4731a5e2c2e40f25b72b-20220222-0829-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""toMp3"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""33948"",
+      ""title"": ""2349020085793_status_f0ef94d57531440e9506ff2134417ff9""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,25137684,0,PT,3,,NG,,0,0,,,,,,,,en-US,,2,ACCEPT,celebration-and-wishes,birthday
+2022-02-22T08:31:31.335617Z,2022-02-22T08:31:34.721475Z,70a4f504-5fec-403c-a000-0fa212850eb8,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/70a4f5045fec403ca0000fa212850eb8/70a4f5045fec403ca0000fa212850eb8-20220222-0831-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/70a4f5045fec403ca0000fa212850eb8/70a4f5045fec403ca0000fa212850eb8-20220222-0831-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/87/70/93877029-1647-a13b-add3-4fade3a7e94c/20UM1IM14507.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Justin Bieber"",
+      ""id"": ""ca157a48f260e7e4ca7f201c05ebdef31891f8c46823ba47f695ee82a46a073c"",
+      ""title"": ""Anyone""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32366378,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/70a4f5045fec403ca0000fa212850eb8/70a4f5045fec403ca0000fa212850eb8-20220222-0831-image.gif,,,,,30000,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-22T08:31:52.537223Z,2022-02-22T08:31:56.106813Z,dfa5acf2-e89c-4e8b-8ff6-d78816b3eaac,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/dfa5acf2e89c4e8b8ff6d78816b3eaac/dfa5acf2e89c4e8b8ff6d78816b3eaac-20220222-0826-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/dfa5acf2e89c4e8b8ff6d78816b3eaac/dfa5acf2e89c4e8b8ff6d78816b3eaac-20220222-0826-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f0/9d/e5/f09de526-7474-94e8-fd09-736023ca4d37/194690050770_cover.jpg/170x170bb.jpg"",
+      ""artist"": ""Fireboy DML"",
+      ""id"": ""f7b63e1803a1d2de7a0fa7928ddae4ce55534ed34dfb2def0495a1ef28e8ecb4"",
+      ""title"": ""Like I Do""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32366161,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/dfa5acf2e89c4e8b8ff6d78816b3eaac/dfa5acf2e89c4e8b8ff6d78816b3eaac-20220222-0826-image.gif,,,,,28789,,en-US,,2,ACCEPT,selfies,"other-third-party-apps, selfie"
+2022-02-22T08:33:42.542114Z,2022-02-22T08:33:45.965677Z,d4b61bb5-f5d8-4494-9aaf-8426df217bbc,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/d4b61bb5f5d844949aaf8426df217bbc/d4b61bb5f5d844949aaf8426df217bbc-20220222-0833-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/d4b61bb5f5d844949aaf8426df217bbc/d4b61bb5f5d844949aaf8426df217bbc-20220222-0833-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/89/bc/6e/89bc6e04-0497-2c59-35bd-f3c7d00abaf6/cover.jpg/170x170bb.jpg"",
+      ""artist"": ""Pascal Letoublon"",
+      ""id"": ""5f8b90c3f33dc41c86cf1d5456a2b6166f02a254a5fff14269b9d000a4d9f510"",
+      ""title"": ""Friendships""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,22708070,0,PT,3,,RU,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/d4b61bb5f5d844949aaf8426df217bbc/d4b61bb5f5d844949aaf8426df217bbc-20220222-0833-image.webp,,,,,26166,,ru-RU,,2,ACCEPT,adventure,skateboarding
+2022-02-22T08:34:49.729378Z,2022-02-22T08:34:53.011741Z,ded4a3bf-2384-450b-bfaa-6fb03038e857,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/ded4a3bf2384450bbfaa6fb03038e857/ded4a3bf2384450bbfaa6fb03038e857-20220222-0832-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/ded4a3bf2384450bbfaa6fb03038e857/ded4a3bf2384450bbfaa6fb03038e857-20220222-0832-image.png,"{
+  ""audio"": {
+    ""artist"": ""Post Malone"",
+    ""id"": ""1447204033"",
+    ""title"": ""Wow.""
+  },
+  ""dimensions"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,20164980,0,PT,3,,NG,,0,0,,,beauty-grooming,,,,,,,2,ACCEPT,life-style,fashion
+2022-02-22T08:39:18.056934Z,2022-02-22T08:39:21.420084Z,afd6583b-4b49-40b5-b303-4eaf6a8ce5c5,Love esteem,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/afd6583b4b4940b5b3034eaf6a8ce5c5/afd6583b4b4940b5b3034eaf6a8ce5c5-20220222-0839-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/afd6583b4b4940b5b3034eaf6a8ce5c5/afd6583b4b4940b5b3034eaf6a8ce5c5-20220222-0839-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://cdn.lomotif.com/music/custom-music/2021-08/KizzDaniel-Lie/KizzDaniel-Lie-AlbumArt.jpeg"",
+      ""artist"": ""Kizz Daniel"",
+      ""id"": ""5a9171b7913ff23add99e81d3ae57d281ed3c6d9bb3fbd4a6ff0699a8e0a85a0"",
+      ""title"": ""Lie""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,24989919,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/afd6583b4b4940b5b3034eaf6a8ce5c5/afd6583b4b4940b5b3034eaf6a8ce5c5-20220222-0839-image.webp,,,,,29983,,en-NG,,2,ACCEPT,selfies,selfie
+2022-02-22T08:37:29.093358Z,2022-03-03T23:24:14.018801Z,b654c80c-58b6-4c6c-9c40-eb9bc126c308,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/b654c80c58b64c6c9c40eb9bc126c308/b654c80c58b64c6c9c40eb9bc126c308-20220222-0837-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/b654c80c58b64c6c9c40eb9bc126c308/b654c80c58b64c6c9c40eb9bc126c308-20220222-0837-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album"": ""Street Gossip"",
+      ""album_art_url"": ""https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/db/ad/2a/dbad2a51-e4e1-51a3-f895-079276385b25/00602577321979.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Lil Baby"",
+      ""id"": ""e0d89a193e95a0d861b91c8c64ecf8eb23a1e71dd8616f3ee7c816340411ecb8"",
+      ""title"": ""Ready (feat. Gunna)""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,28069310,11,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/b654c80c58b64c6c9c40eb9bc126c308/b654c80c58b64c6c9c40eb9bc126c308-20220222-0837-image.webp,,,,,12866,,en-US,,2,ACCEPT,music,"music-performance, tiktok"
+2022-02-22T08:43:46.165684Z,2022-02-22T08:43:49.489699Z,274411ae-cb4a-4bfa-aade-b6c91240e7b9,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/274411aecb4a4bfaaadeb6c91240e7b9/274411aecb4a4bfaaadeb6c91240e7b9-20220222-0843-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/274411aecb4a4bfaaadeb6c91240e7b9/274411aecb4a4bfaaadeb6c91240e7b9-20220222-0843-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f0/9d/e5/f09de526-7474-94e8-fd09-736023ca4d37/194690050770_cover.jpg/170x170bb.jpg"",
+      ""artist"": ""Fireboy DML"",
+      ""id"": ""f7b63e1803a1d2de7a0fa7928ddae4ce55534ed34dfb2def0495a1ef28e8ecb4"",
+      ""title"": ""Like I Do""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,29837774,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/274411aecb4a4bfaaadeb6c91240e7b9/274411aecb4a4bfaaadeb6c91240e7b9-20220222-0843-image.webp,,,,,17700,,en-NG,,2,ACCEPT,selfies,selfie
+2022-02-22T08:45:15.282182Z,2022-02-22T08:47:48.350944Z,f6eaf454-8278-44a7-aeaa-f122b036cf20,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/f6eaf454827844a7aeaaf122b036cf20/f6eaf454827844a7aeaaf122b036cf20-20220222-0845-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/f6eaf454827844a7aeaaf122b036cf20/f6eaf454827844a7aeaaf122b036cf20-20220222-0845-image.png,"{
+  ""audio"": {
+    ""id"": ""203912"",
+    ""title"": ""Mi Amor || TrendyBeatz.com""
+  },
+  ""dimensions"": {
+    ""height"": 540,
+    ""width"": 960
+  }
+}",0,0,28668939,0,PT,3,,NG,,0,0,,,beauty-grooming,TRUE,,,,,,2,ACCEPT,branding,advertisement
+2022-02-22T08:46:09.81116Z,2022-02-22T08:46:13.236931Z,8d0471be-1296-4f4f-a294-05dbc49a4533,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/8d0471be12964f4fa29405dbc49a4533/8d0471be12964f4fa29405dbc49a4533-20220222-0845-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/8d0471be12964f4fa29405dbc49a4533/8d0471be12964f4fa29405dbc49a4533-20220222-0845-image.jpeg,"{
+  ""audio"": null,
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,31826525,0,PT,3,,RU,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/8d0471be12964f4fa29405dbc49a4533/8d0471be12964f4fa29405dbc49a4533-20220222-0845-image.webp,,,,,17066,,ru-RU,,2,ACCEPT,beauty-and-grooming,hair
+2022-02-22T08:48:16.470374Z,2022-02-22T08:48:19.847299Z,a3cfa30f-cf05-469e-b3d8-322edc5e0e39,Smile❤,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/a3cfa30fcf05469eb3d8322edc5e0e39/a3cfa30fcf05469eb3d8322edc5e0e39-20220222-0846-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/a3cfa30fcf05469eb3d8322edc5e0e39/a3cfa30fcf05469eb3d8322edc5e0e39-20220222-0846-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""TrendyBeatz.com"",
+      ""artist"": ""Kayode"",
+      ""id"": ""43109"",
+      ""title"": ""Live Forever || TrendyBeatz.com""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32366446,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/a3cfa30fcf05469eb3d8322edc5e0e39/a3cfa30fcf05469eb3d8322edc5e0e39-20220222-0846-image.gif,,,,,29492,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-22T08:51:01.746313Z,2022-02-22T08:52:44.514066Z,0c38148e-8ae0-4a64-aff3-ba72438a8079,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/0c38148e8ae04a64aff3ba72438a8079/0c38148e8ae04a64aff3ba72438a8079-20220222-0850-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/0c38148e8ae04a64aff3ba72438a8079/0c38148e8ae04a64aff3ba72438a8079-20220222-0850-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""@xclusiveloaded_com"",
+      ""artist"": ""HotKid"",
+      ""id"": ""89592"",
+      ""title"": ""Suliya | Xclusiveloaded.com""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,31644655,1,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/0c38148e8ae04a64aff3ba72438a8079/0c38148e8ae04a64aff3ba72438a8079-20220222-0850-image.gif,,,TRUE,,30000,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-22T08:51:54.056725Z,2022-02-22T08:51:57.720287Z,51f89175-cda0-4716-a92a-41e06a9c30fd,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/51f89175cda04716a92a41e06a9c30fd/51f89175cda04716a92a41e06a9c30fd-20220222-0851-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/51f89175cda04716a92a41e06a9c30fd/51f89175cda04716a92a41e06a9c30fd-20220222-0851-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album"": ""フィアレス (Japan Digital Version)"",
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/7d/ec/50/7dec50ff-bc9a-5b86-6a94-cd6158861118/00602527084992.rgb.jpg/170x168bb.jpg"",
+      ""artist"": ""Taylor Swift"",
+      ""id"": ""e3a33b3fe023e628bd3e51d46da480f476f835c02fc14e8a8a0020035beadafc"",
+      ""title"": ""Love Story""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,31563063,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/22/51f89175cda04716a92a41e06a9c30fd/51f89175cda04716a92a41e06a9c30fd-20220222-0851-image.webp,,,,,30033,,en-NG,,2,ACCEPT,music,music-performance
+2022-02-20T14:43:16.280224Z,2022-03-01T20:42:35.916177Z,5255a97e-3946-4ecd-add1-00c297f3421a,##✌Primo 😘,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/5255a97e39464ecdadd100c297f3421a/5255a97e39464ecdadd100c297f3421a-20220220-1443-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/5255a97e39464ecdadd100c297f3421a/5255a97e39464ecdadd100c297f3421a-20220220-1443-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/5f/7f/95/5f7f95a6-b0b3-40a9-4cd1-01ca9c3dcda0/0.jpg/170x170bb.jpg"",
+      ""artist"": ""Teto"",
+      ""id"": ""58c84e95d4174c0922d5edbc82ee8cdcf63c0194b140be655c946bbb7fd70782"",
+      ""title"": ""M4 (feat. Matuê)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32325573,6,PT,3,,BR,,6,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/5255a97e39464ecdadd100c297f3421a/5255a97e39464ecdadd100c297f3421a-20220220-1443-image.gif,,,,,13975,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T14:45:51.714795Z,2022-02-20T14:45:54.983148Z,bedfd2c3-dcb3-4afd-8eb0-2edc1f9359ce,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/bedfd2c3dcb34afd8eb02edc1f9359ce/bedfd2c3dcb34afd8eb02edc1f9359ce-20220220-1445-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/bedfd2c3dcb34afd8eb02edc1f9359ce/bedfd2c3dcb34afd8eb02edc1f9359ce-20220220-1445-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is5-ssl.mzstatic.com/image/thumb/Music62/v4/aa/bf/ee/aabfee91-55b9-7b13-9452-b38030464aba/mzm.pzacaiyu.jpg/170x170bb.jpg"",
+      ""artist"": ""Jeito Moleque & Thiaguinho"",
+      ""id"": ""f5e745998774b346eeda42845256faf8d6a506bfe064e2389a5d64ca12e732e6"",
+      ""title"": ""A Amizade É Tudo""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1080,
+    ""width"": 1080
+  }
+}",0,0,20771763,0,SQ,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/bedfd2c3dcb34afd8eb02edc1f9359ce/bedfd2c3dcb34afd8eb02edc1f9359ce-20220220-1445-image.webp,,,,,30000,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T14:46:08.493761Z,2022-02-20T14:46:12.14944Z,81f609f9-b01e-4391-b386-9a344a41f888,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/81f609f9b01e4391b3869a344a41f888/81f609f9b01e4391b3869a344a41f888-20220220-1446-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/81f609f9b01e4391b3869a344a41f888/81f609f9b01e4391b3869a344a41f888-20220220-1446-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Fernandinho - O Hino (Ao Vivo - HSBC Arena RJ)"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""23517"",
+      ""title"": ""Fernandinho - O Hino (Ao Vivo - HSBC Arena RJ)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,31857358,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/81f609f9b01e4391b3869a344a41f888/81f609f9b01e4391b3869a344a41f888-20220220-1446-image.gif,,,,,30000,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T14:13:25.575198Z,2022-02-20T15:03:43.440723Z,ff555960-ddd0-40f3-9fb7-c5a1c18ac10c,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ff555960ddd040f39fb7c5a1c18ac10c/ff555960ddd040f39fb7c5a1c18ac10c-20220220-1412-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ff555960ddd040f39fb7c5a1c18ac10c/ff555960ddd040f39fb7c5a1c18ac10c-20220220-1412-image.png,"{
+  ""audio"": {
+    ""album"": ""Without Me (ILLENIUM Remix) - Single"",
+    ""artist"": ""Halsey"",
+    ""id"": ""e76089b81d2f0b39f5c1b02ba80694ac8c5cb45ea5dfa8011cda0f26a04f4f11"",
+    ""title"": ""Without Me""
+  },
+  ""dimensions"": {
+    ""height"": 720,
+    ""width"": 720
+  }
+}",0,0,32355349,0,SQ,3,,NG,,0,0,,TRUE,,,,,,,,2,REJECT,quality,poor-quality-video
+2022-02-20T14:14:19.820697Z,2022-02-20T14:15:51.51714Z,b1890546-f955-4b97-bdb3-d3e65284c6e7,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b1890546f9554b97bdb3d3e65284c6e7/b1890546f9554b97bdb3d3e65284c6e7-20220220-1413-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b1890546f9554b97bdb3d3e65284c6e7/b1890546f9554b97bdb3d3e65284c6e7-20220220-1413-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Download"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""1153"",
+      ""title"": ""Bella Shmurda - My Friend (Lyrics Video)_160k""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32355340,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b1890546f9554b97bdb3d3e65284c6e7/b1890546f9554b97bdb3d3e65284c6e7-20220220-1413-image.gif,,,TRUE,,14999,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T14:50:16.608601Z,2022-02-20T14:54:41.663231Z,51fe776f-26ee-4ba8-a714-358aed933115,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/51fe776f26ee4ba8a714358aed933115/51fe776f26ee4ba8a714358aed933115-20220220-1449-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/51fe776f26ee4ba8a714358aed933115/51fe776f26ee4ba8a714358aed933115-20220220-1449-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Damares"",
+      ""artist"": ""Damares"",
+      ""id"": ""296231"",
+      ""title"": ""Damares - O Maior Troféu (Videoclip)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32355337,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/51fe776f26ee4ba8a714358aed933115/51fe776f26ee4ba8a714358aed933115-20220220-1449-image.gif,,,TRUE,,30000,,pt-BR,,2,ACCEPT,others,others
+2022-02-20T14:50:51.540638Z,2022-02-20T14:52:16.312823Z,2c3e74bd-97ba-401d-bd8f-d65386267c3d,Seja feliz ❤suas expectativas são só suas 😊😘,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/2c3e74bd97ba401dbd8fd65386267c3d/2c3e74bd97ba401dbd8fd65386267c3d-20220220-1450-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/2c3e74bd97ba401dbd8fd65386267c3d/2c3e74bd97ba401dbd8fd65386267c3d-20220220-1450-image.png,"{
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,31808991,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/2c3e74bd97ba401dbd8fd65386267c3d/2c3e74bd97ba401dbd8fd65386267c3d-20220220-1450-image.gif,,,TRUE,,8869,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T14:16:03.007508Z,2022-02-20T14:16:06.343641Z,f4380df4-c9ea-4bc9-9806-24664f790f86,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f4380df4c9ea4bc9980624664f790f86/f4380df4c9ea4bc9980624664f790f86-20220220-1415-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f4380df4c9ea4bc9980624664f790f86/f4380df4c9ea4bc9980624664f790f86-20220220-1415-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/3a/05/94/3a059400-cc5d-5cfc-6e89-b20413e5d895/193483643885.jpg/170x170bb.jpg"",
+      ""artist"": ""Jovanie"",
+      ""id"": ""0137cf65a04095e09f2c7733d15ac73e8efd056f6e0a285098c043305ac5f5c3"",
+      ""title"": ""Happy Birthday""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,2738140,0,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f4380df4c9ea4bc9980624664f790f86/f4380df4c9ea4bc9980624664f790f86-20220220-1415-image.webp,,,,,30033,,en-US,,2,ACCEPT,celebration-and-wishes,birthday
+2022-02-20T14:16:54.141858Z,2022-02-20T18:53:00.440135Z,a4c8adc3-5306-46a7-9b5c-598b7dbc8527,Hbd sweetheart,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a4c8adc3530646a79b5c598b7dbc8527/a4c8adc3530646a79b5c598b7dbc8527-20220220-1405-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a4c8adc3530646a79b5c598b7dbc8527/a4c8adc3530646a79b5c598b7dbc8527-20220220-1405-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""audio"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""2206"",
+      ""title"": ""Lil Nas X, Jack Harlow - INDUSTRY BABY (Official Video) (256  kbps) (mp3paw.tv)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32330962,1,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/a4c8adc3530646a79b5c598b7dbc8527/a4c8adc3530646a79b5c598b7dbc8527-20220220-1405-image.gif,,,TRUE,,30000,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T14:53:59.040788Z,2022-02-20T14:55:23.550062Z,94092550-0035-4a58-93c3-ab8a21b33548,seja feliz ❤suas expectativas são sò suas 😘😊,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/9409255000354a5893c3ab8a21b33548/9409255000354a5893c3ab8a21b33548-20220220-1453-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/9409255000354a5893c3ab8a21b33548/9409255000354a5893c3ab8a21b33548-20220220-1453-image.png,"{
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,31808991,1,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/9409255000354a5893c3ab8a21b33548/9409255000354a5893c3ab8a21b33548-20220220-1453-image.gif,,,TRUE,,8869,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T14:54:54.588458Z,2022-02-20T14:54:58.390335Z,8890da7b-8cb4-494e-a6a5-77efb7bcf56f,A melhor versão de mim,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8890da7b8cb4494ea6a577efb7bcf56f/8890da7b8cb4494ea6a577efb7bcf56f-20220220-1454-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8890da7b8cb4494ea6a577efb7bcf56f/8890da7b8cb4494ea6a577efb7bcf56f-20220220-1454-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/53/3e/1e/533e1e7c-f85b-185c-ac3d-2ea31cc48ae7/15UMGIM42311.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Matheus & Kauan"",
+      ""id"": ""8eb023a4bc555e1a50b238f17f66ae0cb7c34660276cca1cd82a51ba550600cc"",
+      ""title"": ""Que Sorte a Nossa""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32350875,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/8890da7b8cb4494ea6a577efb7bcf56f/8890da7b8cb4494ea6a577efb7bcf56f-20220220-1454-image.gif,,,,,30000,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T14:56:47.717673Z,2022-02-20T14:56:51.326635Z,f2506a60-c91a-4d8d-88af-fba37049ab27,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f2506a60c91a4d8d88affba37049ab27/f2506a60c91a4d8d88affba37049ab27-20220220-1455-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f2506a60c91a4d8d88affba37049ab27/f2506a60c91a4d8d88affba37049ab27-20220220-1455-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""DJ TOPO - PEITIN PEQUENININ X VAI MOSTRA O PEITIN PRA MIM (MASHUP)"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""3431"",
+      ""title"": ""DJ TOPO - PEITIN PEQUENININ X VAI MOSTRA O PEITIN PRA MIM (MASHUP)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32208697,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f2506a60c91a4d8d88affba37049ab27/f2506a60c91a4d8d88affba37049ab27-20220220-1455-image.gif,,,,,30000,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T14:19:58.863657Z,2022-02-20T14:22:28.307397Z,106f34a4-4b6e-4bff-baa7-99cf1b96825e,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/106f34a44b6e4bffbaa799cf1b96825e/106f34a44b6e4bffbaa799cf1b96825e-20220220-1419-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/106f34a44b6e4bffbaa799cf1b96825e/106f34a44b6e4bffbaa799cf1b96825e-20220220-1419-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Telegram:- Naijaloadedcom"",
+      ""artist"": ""T.I Blaze Ft. Olamide"",
+      ""id"": ""16060"",
+      ""title"": ""Sometimes | Naijaloaded.com.ng""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,31364841,0,PT,3,,NG,,0,0,,,,TRUE,,,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T15:06:32.942144Z,2022-02-20T15:06:36.704611Z,024c4663-3dfe-4427-82d3-376fab2a00df,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/024c46633dfe442782d3376fab2a00df/024c46633dfe442782d3376fab2a00df-20220220-1506-video-vs.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/024c46633dfe442782d3376fab2a00df/024c46633dfe442782d3376fab2a00df-20220220-1506-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/8b/93/a1/8b93a143-99c0-ef47-7afb-d904e4ce10cb/00602557124958.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Rihanna"",
+      ""id"": ""c92fa29eec17958786936aa68da9c8ebdcf8b8d489e152f5178c9ac6afe329f3"",
+      ""title"": ""We Found Love (feat. Calvin Harris)""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,31270394,0,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/024c46633dfe442782d3376fab2a00df/024c46633dfe442782d3376fab2a00df-20220220-1506-image.webp,,,,,11466,,pt-BR,,2,ACCEPT,music,music-performance
+2022-02-20T15:06:47.710986Z,2022-03-06T03:35:20.746637Z,46d99017-9081-4e33-afca-a39ac879e464,"Aniversário da #MillieBobbyBrown e o namorado dela fez esse story ♥️♥️♥️♥️
+
+#HappyBirthday #CompartilheAmor #GratrLove",https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/46d9901790814e33afcaa39ac879e464/46d9901790814e33afcaa39ac879e464-20220220-1506-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/46d9901790814e33afcaa39ac879e464/46d9901790814e33afcaa39ac879e464-20220220-1506-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/6a/96/8d/6a968d1f-5122-0ad2-933f-2347bfb3a8b5/00602567797159.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Melim"",
+      ""id"": ""d3203d4dbb7a6eb33a04f06576001c6d5214105fb426503552c83a3f788515d0"",
+      ""title"": ""Dois Corações""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,28145210,7,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/46d9901790814e33afcaa39ac879e464/46d9901790814e33afcaa39ac879e464-20220220-1506-image.gif,,,,,15021,,pt-BR,,2,ACCEPT,celebration-and-wishes,birthday
+2022-02-20T15:09:54.59465Z,2022-02-20T15:09:59.452144Z,e70bfb0d-1c97-4a0f-a5db-839fc450b939,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e70bfb0d1c974a0fa5db839fc450b939/e70bfb0d1c974a0fa5db839fc450b939-20220220-1509-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e70bfb0d1c974a0fa5db839fc450b939/e70bfb0d1c974a0fa5db839fc450b939-20220220-1509-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album"": ""Anavitória - EP"",
+      ""album_art_url"": ""https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/6b/27/ca/6b27ca7c-cd53-a381-78fd-e0d55af34d16/0.jpg/170x170bb.jpg"",
+      ""artist"": ""Anavitória"",
+      ""id"": ""1451118074e37864ce9a0036110acf03d5ff7c09a1560131b79a9417af042220"",
+      ""title"": ""Singular""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1080,
+    ""width"": 1080
+  }
+}",0,0,20840572,0,SQ,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e70bfb0d1c974a0fa5db839fc450b939/e70bfb0d1c974a0fa5db839fc450b939-20220220-1509-image.webp,,,,,30000,,pt-BR,,2,ACCEPT,music,music-performance
+2022-02-20T14:23:16.535461Z,2022-02-20T14:23:28.404034Z,0b405d48-a092-40c0-b621-7b01c58f6754,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/0b405d48a09240c0b6217b01c58f6754/0b405d48a09240c0b6217b01c58f6754-20220220-1423-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/0b405d48a09240c0b6217b01c58f6754/0b405d48a09240c0b6217b01c58f6754-20220220-1423-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://cdn.lomotif.com/music/custom-music/2022-01/Ruger-Dior/Ruger-Dior-AlbumArt.jpeg"",
+      ""artist"": ""Ruger"",
+      ""id"": ""308ce09a9b2c88c3c7868ab8c8c8f8d1ce1d8a668f14ec90127015ee4fb186af"",
+      ""title"": ""Dior""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,28266565,1,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/0b405d48a09240c0b6217b01c58f6754/0b405d48a09240c0b6217b01c58f6754-20220220-1423-image.gif,,,,,30000,,en-GB,,2,ACCEPT,family-and-friends,friends
+2022-02-20T14:23:56.636774Z,2022-02-22T20:24:42.421258Z,ad57ded5-6f0c-4a94-8922-359b7b8bb5d5,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ad57ded56f0c4a948922359b7b8bb5d5/ad57ded56f0c4a948922359b7b8bb5d5-20220220-1423-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ad57ded56f0c4a948922359b7b8bb5d5/ad57ded56f0c4a948922359b7b8bb5d5-20220220-1423-image.png,"{
+  ""dimensions"": {
+    ""height"": 540,
+    ""width"": 960
+  }
+}",0,0,21046101,1,LS,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ad57ded56f0c4a948922359b7b8bb5d5/ad57ded56f0c4a948922359b7b8bb5d5-20220220-1423-image.gif,,,,,12243,,en-US,,2,ACCEPT,music,music-performance
+2022-02-20T15:16:07.828465Z,2022-02-23T23:01:48.018546Z,f81f6507-afc0-4f6e-b5bf-ea356c20b9d4,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f81f6507afc04f6eb5bfea356c20b9d4/f81f6507afc04f6eb5bfea356c20b9d4-20220220-1514-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f81f6507afc04f6eb5bfea356c20b9d4/f81f6507afc04f6eb5bfea356c20b9d4-20220220-1514-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a8/2e/68/a82e685e-cdaa-6443-f46c-33818cd23597/0.jpg/170x170bb.jpg"",
+      ""artist"": ""Mc Anjim, Dj Lv Mdp & DJ Ph da Serra"",
+      ""id"": ""b89f956a22d026b1fcc514ada919e13fcaa05912e1961487e76ca2cfe0ea3d2f"",
+      ""title"": ""Bala Love""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32355665,3,PT,3,,BR,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f81f6507afc04f6eb5bfea356c20b9d4/f81f6507afc04f6eb5bfea356c20b9d4-20220220-1514-image.gif,,,,,29010,,pt-BR,,2,ACCEPT,selfies,selfie
+2022-02-20T14:25:00.00142Z,2022-02-22T20:24:41.4483Z,4822bc06-03a9-44cf-aeca-20204b47876a,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/4822bc0603a944cfaeca20204b47876a/4822bc0603a944cfaeca20204b47876a-20220220-1424-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/4822bc0603a944cfaeca20204b47876a/4822bc0603a944cfaeca20204b47876a-20220220-1424-image.png,"{
+  ""dimensions"": {
+    ""height"": 540,
+    ""width"": 960
+  }
+}",0,0,21046101,1,LS,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/4822bc0603a944cfaeca20204b47876a/4822bc0603a944cfaeca20204b47876a-20220220-1424-image.gif,,,,,14227,,en-US,,2,ACCEPT,music,music-performance
+2022-02-20T14:27:03.989985Z,2022-02-22T20:24:32.472423Z,ae29aba7-61cf-4434-8e68-434498649bde,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ae29aba761cf44348e68434498649bde/ae29aba761cf44348e68434498649bde-20220220-1426-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ae29aba761cf44348e68434498649bde/ae29aba761cf44348e68434498649bde-20220220-1426-image.png,"{
+  ""dimensions"": {
+    ""height"": 540,
+    ""width"": 960
+  }
+}",0,0,21046101,1,LS,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/ae29aba761cf44348e68434498649bde/ae29aba761cf44348e68434498649bde-20220220-1426-image.gif,,,,,14931,,en-US,,2,ACCEPT,music,music-performance
+2022-02-20T14:27:08.684755Z,2022-02-20T14:28:41.329349Z,77c7181c-c027-413a-9d0e-e2e012a724ed,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/77c7181cc027413a9d0ee2e012a724ed/77c7181cc027413a9d0ee2e012a724ed-20220220-1426-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/77c7181cc027413a9d0ee2e012a724ed/77c7181cc027413a9d0ee2e012a724ed-20220220-1426-image.png,"{
+  ""audio"": {
+    ""id"": ""307984"",
+    ""title"": ""Italy (Refix) || TrendyBeatz.com""
+  },
+  ""dimensions"": {
+    ""height"": 1080,
+    ""width"": 1080
+  }
+}",0,0,27952665,0,SQ,3,,NG,,0,0,,,,TRUE,,,,,,2,ACCEPT,selfies,selfie
+2022-02-20T14:27:59.487181Z,2022-02-20T14:28:02.765903Z,bf5273e7-9cbc-467c-9391-ba8ce58eb5df,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/bf5273e79cbc467c9391ba8ce58eb5df/bf5273e79cbc467c9391ba8ce58eb5df-20220220-1427-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/bf5273e79cbc467c9391ba8ce58eb5df/bf5273e79cbc467c9391ba8ce58eb5df-20220220-1427-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/93/87/70/93877029-1647-a13b-add3-4fade3a7e94c/20UM1IM14507.rgb.jpg/170x170bb.jpg"",
+      ""artist"": ""Justin Bieber"",
+      ""id"": ""ca157a48f260e7e4ca7f201c05ebdef31891f8c46823ba47f695ee82a46a073c"",
+      ""title"": ""Anyone""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,25208063,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/bf5273e79cbc467c9391ba8ce58eb5df/bf5273e79cbc467c9391ba8ce58eb5df-20220220-1427-image.webp,,,,,14266,,en-GB,,2,ACCEPT,animation,gifs
+2022-02-20T14:29:24.408756Z,2022-02-20T14:31:02.538702Z,d74b2afb-5b32-4bef-a6df-cdc7858ec7bc,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/d74b2afb5b324befa6dfcdc7858ec7bc/d74b2afb5b324befa6dfcdc7858ec7bc-20220220-1429-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/d74b2afb5b324befa6dfcdc7858ec7bc/d74b2afb5b324befa6dfcdc7858ec7bc-20220220-1429-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""DJMwanga.com"",
+      ""artist"": ""Harmonize"",
+      ""id"": ""39915"",
+      ""title"": ""Happy birthday | DJMwanga.com""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32020634,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/d74b2afb5b324befa6dfcdc7858ec7bc/d74b2afb5b324befa6dfcdc7858ec7bc-20220220-1429-image.gif,,,TRUE,,30000,,en-US,,2,ACCEPT,celebration-and-wishes,birthday
+2022-02-20T14:30:28.288835Z,2022-02-20T14:32:52.155529Z,04a7f782-547d-483f-9a03-7b3f5211088e,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/04a7f782547d483f9a037b3f5211088e/04a7f782547d483f9a037b3f5211088e-20220220-1430-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/04a7f782547d483f9a037b3f5211088e/04a7f782547d483f9a037b3f5211088e-20220220-1430-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""audio"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""318"",
+      ""title"": ""Chidinma-–-Fall-In-Love-Talkmuzik.com-video-1""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,29980296,0,PT,3,,NG,,0,0,,,,TRUE,,29985,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T14:31:19.125856Z,2022-02-20T14:31:22.545622Z,34d72748-a427-452e-b477-3eb2e46d0e4e,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/34d72748a427452eb4773eb2e46d0e4e/34d72748a427452eb4773eb2e46d0e4e-20220220-1430-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/34d72748a427452eb4773eb2e46d0e4e/34d72748a427452eb4773eb2e46d0e4e-20220220-1430-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://cdn.lomotif.com/music/custom-music/2021-08/FireboyDML-Peru/FireboyDML-Peru-AlbumArt.jpg"",
+      ""artist"": ""Fireboy DML"",
+      ""id"": ""73fab1add05cdaa19a2f642ff8a7dc5be81f97cd6f6993af3edbbce412c7fdbf"",
+      ""title"": ""Peru""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,29830664,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/34d72748a427452eb4773eb2e46d0e4e/34d72748a427452eb4773eb2e46d0e4e-20220220-1430-image.gif,,,,,29999,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T14:31:35.814251Z,2022-02-20T14:31:39.386523Z,f921c686-0f02-45a1-9c8a-44a3887411b9,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f921c6860f0245a19c8a44a3887411b9/f921c6860f0245a19c8a44a3887411b9-20220220-1431-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f921c6860f0245a19c8a44a3887411b9/f921c6860f0245a19c8a44a3887411b9-20220220-1431-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""GBWhatsApp Audio"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""22505"",
+      ""title"": ""AUD-20220113-WA0009""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,30589885,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/f921c6860f0245a19c8a44a3887411b9/f921c6860f0245a19c8a44a3887411b9-20220220-1431-image.gif,,,,,13000,,en-CA,,2,ACCEPT,life-style,fashion
+2022-02-20T14:31:44.786922Z,2022-02-20T14:34:15.29352Z,4d7d4fd6-6ea4-49b1-b835-a7461b87b312,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/4d7d4fd66ea449b1b835a7461b87b312/4d7d4fd66ea449b1b835a7461b87b312-20220220-1431-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/4d7d4fd66ea449b1b835a7461b87b312/4d7d4fd66ea449b1b835a7461b87b312-20220220-1431-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Punk"",
+      ""artist"": ""Young Thug ft Nate Ruess & Gunna"",
+      ""id"": ""167626"",
+      ""title"": ""Love You More""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32355382,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/4d7d4fd66ea449b1b835a7461b87b312/4d7d4fd66ea449b1b835a7461b87b312-20220220-1431-image.gif,,,TRUE,,30000,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T14:32:12.088376Z,2022-02-20T14:32:15.530064Z,0aca482a-8494-4d0a-b4b4-dec0bf28fef1,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/0aca482a84944d0ab4b4dec0bf28fef1/0aca482a84944d0ab4b4dec0bf28fef1-20220220-1431-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/0aca482a84944d0ab4b4dec0bf28fef1/0aca482a84944d0ab4b4dec0bf28fef1-20220220-1431-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/c2/82/ac/c282ac54-0c2f-20d3-ff1b-9171a6da62fe/194690303098_cover.jpg/170x170bb.jpg"",
+      ""artist"": ""Fireboy DML & Wande Coal"",
+      ""id"": ""8fd92279303b8b09ffbe89bc94044bc293f606dbf6e8be4564778f0ed5adac03"",
+      ""title"": ""Spell""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32332481,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/0aca482a84944d0ab4b4dec0bf28fef1/0aca482a84944d0ab4b4dec0bf28fef1-20220220-1431-image.gif,,,,,30000,,en-US,,2,ACCEPT,music,music-performance
+2022-02-20T14:33:41.265379Z,2022-02-20T14:37:54.586274Z,b1da5852-4c4a-44e7-9e95-c9018ae0cd0b,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b1da58524c4a44e79e95c9018ae0cd0b/b1da58524c4a44e79e95c9018ae0cd0b-20220220-1427-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b1da58524c4a44e79e95c9018ae0cd0b/b1da58524c4a44e79e95c9018ae0cd0b-20220220-1427-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""IG & TW @Naijaloadedotng"",
+      ""artist"": ""Simi feat. Adekunle Gold and Deja"",
+      ""id"": ""693"",
+      ""title"": ""Happy Birthday | Naijaloaded.com.ng""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,31655665,0,PT,3,,NG,,0,0,,,,TRUE,,29999,,en-NG,,2,ACCEPT,music,music-performance
+2022-02-20T14:36:21.807829Z,2022-02-20T14:37:03.553891Z,2cc8f66e-bcb1-4bb7-b841-51a20f8e7e1b,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/2cc8f66ebcb14bb7b84151a20f8e7e1b/2cc8f66ebcb14bb7b84151a20f8e7e1b-20220220-1435-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/2cc8f66ebcb14bb7b84151a20f8e7e1b/2cc8f66ebcb14bb7b84151a20f8e7e1b-20220220-1435-image.jpeg,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://cdn.lomotif.com/music/custom-music/2022-01/SKiibii%26Davido-BaddestBoy%28Remix%29/SKiibii%26Davido-BaddestBoy%28Remix%29-AlbumArt.jpg"",
+      ""artist"": ""SKiibii & Davido"",
+      ""id"": ""17878ff3486dd01846e0562e3444cf0669604a4822c64b1f66b6a5d6edd89be6"",
+      ""title"": ""Baddest Boy (Remix)""
+    }
+  ],
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,30608892,1,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/2cc8f66ebcb14bb7b84151a20f8e7e1b/2cc8f66ebcb14bb7b84151a20f8e7e1b-20220220-1435-image.webp,,,,,29993,,en-NG,,2,ACCEPT,selfies,selfie
+2022-02-20T14:36:36.953063Z,2022-02-20T14:38:02.198991Z,c72b9923-168b-44ff-9ea0-740becae5087,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/c72b9923168b44ff9ea0740becae5087/c72b9923168b44ff9ea0740becae5087-20220220-1436-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/c72b9923168b44ff9ea0740becae5087/c72b9923168b44ff9ea0740becae5087-20220220-1436-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""Movies"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""18965"",
+      ""title"": ""CKay_-_Love_Nwantiti_Remix_ft._Joeboy_&_Kuami_Eugene_[Ah_Ah_Ah]_(Official_Video)(128k)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,19475498,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/c72b9923168b44ff9ea0740becae5087/c72b9923168b44ff9ea0740becae5087-20220220-1436-image.gif,,,TRUE,,14000,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T14:42:23.365995Z,2022-02-20T14:43:47.990961Z,71eeedab-be11-44a6-9b9e-a9ee9c64e248,"happy Birthday to you 
+Alhamdulillah Am plus one",https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/71eeedabbe1144a69b9ea9ee9c64e248/71eeedabbe1144a69b9ea9ee9c64e248-20220220-1441-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/71eeedabbe1144a69b9ea9ee9c64e248/71eeedabbe1144a69b9ea9ee9c64e248-20220220-1441-image.png,"{
+  ""audio"": {
+    ""album"": ""How Old Are You (Original Motion Picture Soundtrack) - Single"",
+    ""artist"": ""Carnival Band"",
+    ""id"": ""5e43a6c8547708fbc73716cfe486767bbb6bde15cb2c2e40e0ad1617bfbb2f00"",
+    ""title"": ""Happy Birthday""
+  },
+  ""dimensions"": {
+    ""height"": 1080,
+    ""width"": 1080
+  }
+}",0,0,30100488,0,SQ,3,,NG,,0,0,,,,TRUE,,,,,,2,ACCEPT,celebration-and-wishes,birthday
+2022-02-20T14:43:11.219466Z,2022-02-20T14:43:14.546535Z,de643d5c-a9db-4a78-b29f-7709a032f9e3,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/de643d5ca9db4a78b29f7709a032f9e3/de643d5ca9db4a78b29f7709a032f9e3-20220220-1443-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/de643d5ca9db4a78b29f7709a032f9e3/de643d5ca9db4a78b29f7709a032f9e3-20220220-1443-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""MsKimScooby-Takoma-2720A"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""1439"",
+      ""title"": ""Track 1""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,5194548,0,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/de643d5ca9db4a78b29f7709a032f9e3/de643d5ca9db4a78b29f7709a032f9e3-20220220-1443-image.gif,,,,,30000,,en-US,,2,ACCEPT,branding,advertisement
+2022-02-20T14:45:05.514351Z,2022-02-20T14:45:08.948899Z,e947a179-4658-42a5-a487-5a029e98e3b6,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e947a179465842a5a4875a029e98e3b6/e947a179465842a5a4875a029e98e3b6-20220220-1444-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e947a179465842a5a4875a029e98e3b6/e947a179465842a5a4875a029e98e3b6-20220220-1444-image.jpeg,"{
+  ""audio"": null,
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,20982536,0,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e947a179465842a5a4875a029e98e3b6/e947a179465842a5a4875a029e98e3b6-20220220-1444-image.webp,,,,,14333,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T14:48:16.884137Z,2022-02-20T14:50:33.158524Z,20fa3beb-c870-4049-89eb-2bd09b40cb28,Fear who never collect,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/20fa3bebc870404989eb2bd09b40cb28/20fa3bebc870404989eb2bd09b40cb28-20220220-1447-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/20fa3bebc870404989eb2bd09b40cb28/20fa3bebc870404989eb2bd09b40cb28-20220220-1447-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""TrendyBeatz.com"",
+      ""artist"": ""Dagogo (feat. Soft)"",
+      ""id"": ""16962"",
+      ""title"": ""Underdog || TrendyBeatz.com""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,21241300,0,PT,3,,NG,,0,0,,,,TRUE,,29970,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T14:48:39.789568Z,2022-02-20T14:48:43.190863Z,e4665a70-8e66-45c3-bc68-33a3619c0b35,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e4665a708e6645c3bc6833a3619c0b35/e4665a708e6645c3bc6833a3619c0b35-20220220-1448-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e4665a708e6645c3bc6833a3619c0b35/e4665a708e6645c3bc6833a3619c0b35-20220220-1448-image.png,"{
+  ""audio"": [
+    {
+      ""album"": ""audio"",
+      ""artist"": ""<unknown>"",
+      ""id"": ""1010"",
+      ""title"": ""Alh. BASIT OLANREWAJU KATIBI BELLO,-TALENT (EBUN) (1)""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32188924,0,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/e4665a708e6645c3bc6833a3619c0b35/e4665a708e6645c3bc6833a3619c0b35-20220220-1448-image.gif,,,,,30000,,en-US,,2,ACCEPT,celebration-and-wishes,birthday
+2022-02-20T14:49:35.578597Z,2022-02-20T14:50:22.641035Z,41fc77d6-bc83-4a35-a0c8-c9819dfb7cd1,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/41fc77d6bc834a35a0c8c9819dfb7cd1/41fc77d6bc834a35a0c8c9819dfb7cd1-20220220-1448-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/41fc77d6bc834a35a0c8c9819dfb7cd1/41fc77d6bc834a35a0c8c9819dfb7cd1-20220220-1448-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://cdn.lomotif.com/music/custom-music/2022-01/LilKesh-Don%27tCallMe/LilKesh-Don%27tCallMe-AlbumArt.jpg"",
+      ""artist"": ""Lil Kesh"",
+      ""id"": ""9f4cb9a6df44663deed4ed6f2dfb6afe3df5ad7ead22a3ef68ff265dd1f65464"",
+      ""title"": ""Don't Call Me""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,32322265,1,PT,3,,NG,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/41fc77d6bc834a35a0c8c9819dfb7cd1/41fc77d6bc834a35a0c8c9819dfb7cd1-20220220-1448-image.gif,,,,,30000,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T14:55:16.936688Z,2022-02-20T14:55:20.289957Z,48591ba0-1f90-4f5a-b677-6ad7cac72f56,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/48591ba01f904f5ab6776ad7cac72f56/48591ba01f904f5ab6776ad7cac72f56-20220220-1455-video-vs-compressed.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/48591ba01f904f5ab6776ad7cac72f56/48591ba01f904f5ab6776ad7cac72f56-20220220-1455-image.png,"{
+  ""audio"": [
+    {
+      ""album_art_url"": ""https://cdn.lomotif.com/music/custom-music/2022-01/LilKesh-Don%27tCallMe/LilKesh-Don%27tCallMe-AlbumArt.jpg"",
+      ""artist"": ""Lil Kesh"",
+      ""id"": ""9f4cb9a6df44663deed4ed6f2dfb6afe3df5ad7ead22a3ef68ff265dd1f65464"",
+      ""title"": ""Don't Call Me""
+    }
+  ],
+  ""dimensions"": {
+    ""height"": 960,
+    ""width"": 540
+  }
+}",0,0,28902545,0,PT,3,,NG,,0,0,,,,,,29978,,en-US,,2,ACCEPT,selfies,selfie
+2022-02-20T01:27:08.661805Z,2022-02-20T01:29:36.185666Z,b83947fe-7b65-422c-91a7-163bcab1ecb4,,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b83947fe7b65422c91a7163bcab1ecb4/b83947fe7b65422c91a7163bcab1ecb4-20220220-0127-video-vs-compressed-muted.mp4,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b83947fe7b65422c91a7163bcab1ecb4/b83947fe7b65422c91a7163bcab1ecb4-20220220-0127-image.jpeg,"{
+  ""audio"": null,
+  ""dimension"": {
+    ""height"": 1920,
+    ""width"": 1080
+  }
+}",0,0,32329451,0,PT,3,,US,,0,0,https://lomotif-prod.s3.amazonaws.com/lomotifs/2022/2/20/b83947fe7b65422c91a7163bcab1ecb4/b83947fe7b65422c91a7163bcab1ecb4-20220220-0127-image.webp,,,TRUE,,29966,,ru-CN,,2,ACCEPT,branding,advertisement

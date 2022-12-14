@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  example:
+    build: .
+    network_mode: host # might need to change this
+    image: test-rayserve:latest
+    env_file:
+      - .env
+    runtime: nvidia
+    devices:
+      - /dev/nvidia0:/dev/nvidia0
+      - /dev/nvidiactl:/dev/nvidiactl
+      - /dev/nvidia-modeset:/dev/nvidia-modeset
+      - /dev/nvidia-uvm:/dev/nvidia-uvm
+      - /dev/nvidia-uvm-tools:/dev/nvidia-uvm-tools
+    working_dir: /app
+    volumes:
+    - ./:/app
+    # ports:
+    #   - 8265:8265
+    command: bash -c "ray start --head --port=6300 && python serve_tasks/tasks.py"
